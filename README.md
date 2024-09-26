@@ -23,8 +23,8 @@ Business Tools: Oracle (Finance Management), Business Process Mapping
 
 ## Tech Stack
 
-<i class="fab fa-windows"> </i>
-<i class="fab fa-html5"> </i>
+[HTML5] (https://img.icons8.com/color/48/000000/html-5.png) HTML5  
+
 
 I frequently work with the following technologies and tools:
 Languages: Python, JavaScript, SQL, R
