@@ -28,8 +28,7 @@ I frequently work with the following technologies and tools:
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code [Kali Linux](https://img.icons8.com/color/48/000000/linux.png) Kali Linux
 
 #### Data Analysis
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI ![R](https://img.icons8.com/color/48/000000/r-project.png) 
-![R](https://img.icons8.com/color/48/000000/r-project.png) R  ![SAP](https://img.icons8.com/officel/40/000000/sap.png) SAP  
+![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI ![R](https://img.icons8.com/color/48/000000/r-project.png) R ![SAP](https://img.icons8.com/officel/40/000000/sap.png) SAP  
 
 #### UX/UI Design
 ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
