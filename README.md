@@ -26,14 +26,10 @@ Business Tools: Oracle (Finance Management), Business Process Mapping
 I frequently work with the following technologies and tools:
 
 #### Web Development
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5   ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  
-![React](https://img.icons8.com/officel/40/000000/react.png) React  
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5   ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  ![React](https://img.icons8.com/officel/40/000000/react.png) React  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
 
 #### Programming Languages
-![Python](https://img.icons8.com/color/48/000000/python.png) Python  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  
-![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
+![Python](https://img.icons8.com/color/48/000000/python.png) Python  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
 
 #### Development Tools
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code  
