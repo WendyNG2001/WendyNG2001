@@ -22,6 +22,8 @@ Security Tools: Kali Linux, Metasploit (for penetration testing and vulnerabilit
 Business Tools: Oracle (Finance Management), Business Process Mapping
 
 ## Tech Stack
+
+<i class="fab fa-windows"></i>
 I frequently work with the following technologies and tools:
 Languages: Python, JavaScript, SQL, R
 Frameworks: React, Node.js, Express
