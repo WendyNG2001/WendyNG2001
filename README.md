@@ -26,16 +26,25 @@ Business Tools: Oracle (Finance Management), Business Process Mapping
 I frequently work with the following technologies and tools:
 
 #### Web Development
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5   ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  ![React](https://img.icons8.com/officel/40/000000/react.png) React  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5   ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  ![React](https://img.icons8.com/officel/40/000000/react.png) React  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart   ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter 
 
 #### Programming Languages
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
 
 #### Development Tools
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code  ![Kali Linux](https://img.icons8.com/color/48/000000/linux.png) Kali Linux
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code ![Kali Linux](https://img.icons8.com/color/48/000000/linux.png) Kali Linux
 
 #### Data Analysis
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI  
+![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI 
+![R](https://img.icons8.com/color/48/000000/r-project.png) R
+![SAP](https://img.icons8.com/officel/40/000000/sap.png) SAP 
+
+#### UX/UI Design
+![Figma](https://img.icons8.com/windows/64/000000/figma.png) Figma
+
+#### UML & Design Tools
+![Visual Paradigm](https://img.icons8.com/color/48/000000/diagram.png) Visual Paradigm  
+
 
 
 
