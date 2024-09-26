@@ -1,29 +1,18 @@
 # Wendy Gumede's GitHub Repository 👋
 
-<!--
-**WendyNG2001/WendyNG2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Welcome to my personal GitHub repository! I'm Wendy Gumede, an Information Systems and Business Analytics graduate, currently completing my Honors in Information Systems at Stellenbosch University. I am passionate about Data Analytics, Business Analysis, and using technology to solve complex problems.
 
 ## Table of Contents
-Projects
-Skills
-Tech Stack
-Ongoing Learning
-Contributions
-Contact
-Skills
+<ol>
+<li>Projects </li>
+<li>Skills </li>
+<li>Tech Stack </li>
+<li>Ongoing Learning </li>
+<li>Contributions </li>
+<li>Contact </li>
+</ol>
+
 
 ## Skills 
 Programming: Python, SQL, JavaScript, HTML, CSS
