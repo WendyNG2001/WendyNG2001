@@ -21,16 +21,26 @@ AI & Machine Learning: Knowledge of AI-driven business system implementation
 Security Tools: Kali Linux, Metasploit (for penetration testing and vulnerability analysis)
 Business Tools: Oracle (Finance Management), Business Process Mapping
 
-## Tech Stack
- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  
+## Tools & Technologies I Use
 
 I frequently work with the following technologies and tools:
-Languages: Python, JavaScript, SQL, R
-Frameworks: React, Node.js, Express
-Databases: MongoDB, MySQL
-Security Tools: Kali Linux, Metasploit, Wireshark
-Cloud & Hosting: AWS, Heroku
-Version Control: Git, GitHub
+
+#### Web Development
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3  
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  
+![React](https://img.icons8.com/officel/40/000000/react.png) React  
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+
+#### Programming Languages
+![Python](https://img.icons8.com/color/48/000000/python.png) Python  
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  
+![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
+
+#### Development Tools
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code  
+
+
 
 ## Ongoing Learning
 I’m always improving and adding new skills to my toolbox. Here are some areas I’m currently focusing on:
