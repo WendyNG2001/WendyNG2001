@@ -1,25 +1,18 @@
 # Wendy Gumede's GitHub Repository 👋
 
 
-Welcome to my personal GitHub repository! I'm Wendy Gumede, an Information Systems and Business Analytics graduate, currently completing my Honors in Information Systems at Stellenbosch University. I am passionate about Data Analytics, Business Analysis, and using technology to solve complex problems.
+Welcome to my personal GitHub repository! I'm Wendy Gumede, an Information Systems and Business Analytics graduate, currently completing my Honors in Information Systems at Stellenbosch University. I am passionate about Data Analytics, systems design, UI/UX design, AI and software development.
 
 ## Table of Contents
 <ol>
-<li>Projects </li>
+<li> About me </li>
+<li>Tools and Technologies that I use</li>
 <li>Skills </li>
-<li>Tech Stack </li>
 <li>Ongoing Learning </li>
 <li>Contributions </li>
 <li>Contact </li>
 </ol>
 
-
-## Skills 
-Programming: Python, SQL, JavaScript, HTML, CSS
-Data Analysis: Data visualization (Tableau, Power BI), SQL, Python (Pandas, NumPy)
-AI & Machine Learning: Knowledge of AI-driven business system implementation
-Security Tools: Kali Linux, Metasploit (for penetration testing and vulnerability analysis)
-Business Tools: Oracle (Finance Management), Business Process Mapping
 
 ## Tools & Technologies I Use
 
@@ -44,8 +37,6 @@ I frequently work with the following technologies and tools:
 ![Visual Paradigm](https://img.icons8.com/color/48/000000/diagram.png) Visual Paradigm  
 
 
-
-
 ## Ongoing Learning
 I’m always improving and adding new skills to my toolbox. Here are some areas I’m currently focusing on:
 
@@ -54,7 +45,7 @@ Web Development: Enhancing my frontend and backend development skills, focusing 
 Data Analysis: Exploring advanced data analytics techniques, focusing on real-time data processing, predictive analysis, and improving my skills in tools like Power BI, Tableau, and Python libraries (Pandas, NumPy).
 
 ## Contact
-I’m always open to networking, collaboration, and discussions around technology, data, and AI. You can reach me here:
+I’m always open to networking, collaboration, and technology, data, and AI discussions. You can reach me here:
 
 📧 Email: wendygumede16@gmail.com <br>
 💼 LinkedIn: www.linkedin.com/in/wendy-gumede-b297931a1
