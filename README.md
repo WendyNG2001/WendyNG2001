@@ -25,24 +25,24 @@ I frequently work with the following technologies and tools:
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
 
 #### Development Tools
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code ![Kali Linux](https://img.icons8.com/color/48/000000/linux.png) Kali Linux
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code [Kali Linux](https://img.icons8.com/color/48/000000/linux.png) Kali Linux
 
 #### Data Analysis
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI ![R](https://img.icons8.com/color/48/000000/r-project.png) R ![SAP](https://img.icons8.com/officel/40/000000/sap.png) SAP 
+![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI ![R](https://img.icons8.com/color/48/000000/r-project.png) 
+![R](https://img.icons8.com/color/48/000000/r-project.png) R  ![SAP](https://img.icons8.com/officel/40/000000/sap.png) SAP  
 
 #### UX/UI Design
-![Figma](https://img.icons8.com/windows/64/000000/figma.png) Figma
+![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
 
 #### UML & Design Tools
-![Visual Paradigm](https://img.icons8.com/color/48/000000/diagram.png) Visual Paradigm  
-
+![Visual Paradigm](https://img.icons8.com/color/48/000000/visual-paradigm.png) Visual Paradigm  
 
 ## Ongoing Learning
 I’m always improving and adding new skills to my toolbox. Here are some areas I’m currently focusing on:
 
 AI Implementation: Understanding how to integrate AI into business systems to enhance operational efficiency.
 Web Development: Enhancing my frontend and backend development skills, focusing on responsive design, SEO optimization, and modern frameworks like React and Node.js.
-Data Analysis: Exploring advanced data analytics techniques, focusing on real-time data processing, predictive analysis, and improving my skills in tools like Power BI, Tableau, and Python libraries (Pandas, NumPy).
+Data Analysis: Exploring advanced data analytics techniques, focusing on real-time data processing, and predictive analysis, and improving my skills in tools like Power BI, Tableau, and Python libraries (Pandas, NumPy).
 
 ## Contact
 I’m always open to networking, collaboration, and technology, data, and AI discussions. You can reach me here:
