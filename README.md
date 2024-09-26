@@ -32,7 +32,10 @@ I frequently work with the following technologies and tools:
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
 
 #### Development Tools
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code  
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code  ![Kali Linux](https://img.icons8.com/color/48/000000/linux.png) Kali Linux
+
+#### Data Analysis
+![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI  
 
 
 
